@@ -52,3 +52,32 @@ graph LR
 
     A --> B
     B --> C
+
+
+## Project Structure
+
+data/ – Stores AESO hourly profiles and PSS®E cases.
+scripts/ – Contains automation routines, contingency analysis modules, and curtailment logic.
+outputs/ – Stores results such as curtailment logs, congestion rankings, and voltage heatmaps.
+docs/ – Technical documentation detailing methodology, assumptions, and implementation.
+
+## Outputs
+
+Transmission Congestion Rankings – Identify the most constrained elements in the network.
+Generation Curtailment Logs – Track renewable energy curtailment to maintain reliability.
+Voltage Violation Heatmaps – Visualize areas of concern in the network.
+Annual Reliability Insights – Summarize system performance over the full year.
+
+## Project Status
+Work in Progress
+Current tasks:
+Building 8760-hour automation framework
+Integrating violation detection and curtailment logic
+
+Next steps: validation, performance analysis, and reporting.
+
+## Tech Stack
+Simulation: PSS®E – AC power flow and contingency analysis
+Automation: Python, PSS®E API
+Data Processing: Pandas, NumPy
+Visualization: Matplotlib, Streamlit
