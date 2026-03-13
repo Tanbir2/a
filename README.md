@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed for **ENEL 678** to build an automated **Python–PSS®E framework** for performing large-scale steady-state reliability analysis of the **Southeast Alberta transmission network**.
+The aim of the project is to to build an automated **Python–PSS®E framework** for performing large-scale steady-state reliability analysis of the **Southeast Alberta transmission network**.
 
 With increasing integration of **renewable energy resources (wind and solar)**, power systems face operational challenges such as **thermal congestion, voltage violations, and generation curtailment requirements**.
 
