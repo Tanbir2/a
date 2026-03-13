@@ -8,7 +8,6 @@ With increasing integration of **renewable energy resources (wind and solar)**, 
 
 This project performs **8760-hour AC power flow simulations** using hourly generation profiles to evaluate network constraints and determine the required curtailment needed to maintain reliable system operation.
 
----
 
 ## Key Features
 
@@ -25,8 +24,6 @@ This project performs **8760-hour AC power flow simulations** using hourly gener
   - Congestion ranking of transmission elements
   - Voltage violation heatmaps
   - Curtailment logs
-
----
 
 ## Workflow
 
