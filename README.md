@@ -1,4 +1,4 @@
-# Automated 8760-Hour Steady-State Reliability & Curtailment Assessment
+# Automated Grid Congestion, voltage violation & Curtailment Screening Tool for Alberta Transmission Network
 
 ## Project Overview
 
