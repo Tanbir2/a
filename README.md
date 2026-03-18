@@ -1,4 +1,4 @@
-# Automated Grid Congestion, voltage violation & Curtailment Screening Tool for Alberta Transmission Network
+# Automated Grid Congestion, Voltage Violation & Curtailment Screening Tool for Alberta Transmission Network
 
 ## Project Overview
 
